@@ -1,0 +1,19 @@
+# Bank Marketing Lab — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Data
+pandas>=2.0
+numpy>=1.24
+ucimlrepo>=0.0.3
+
+# ML
+scikit-learn>=1.3
+imbalanced-learn>=0.11   # for SMOTE (Extension A)
+
+# XAI
+shap>=0.44
+lime>=0.2.0.1
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
